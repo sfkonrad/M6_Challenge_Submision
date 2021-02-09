@@ -1,10 +1,4 @@
-# M6_Challenge_Submision
-KKozicki's UCBx FinTech 'Module_6_Challenge' Submission repository
-
-
-
-
-# **M5_Challenge_Submission**
+# **M6_Challenge_Submision**
 ## **Financial Planning with APIs and Simulations**
 ### For this Project, we created two financial analysis tools for a local Credit Union by using a single Jupyter notebook:
 

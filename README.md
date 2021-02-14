@@ -10,7 +10,7 @@
 
 ---
 
-The main task in this Challenge was to visualize and analyze the real-estate data in our Jupyter notebook. Employing our `.ipynb` notebook to complete the following tasks:
+The main task in this Challenge was to visualize and analyze the real-estate data in our Jupyter notebook. Designing our `.ipynb` notebook to complete the following tasks:
 
 ## Calculate and plot the housing units per year:
 > Use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar chart.

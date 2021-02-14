@@ -1,5 +1,5 @@
 ## **M6_Challenge_Submision**
-# **San Francisco Housing Rental Analysis**
+# **San Francisco RentalHousing Analysis**
 
 ### This assignment required us to create visualizations by using the integration between Plotly and the Mapbox API. 
 ### Our objective was to use data visualization techniques, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.

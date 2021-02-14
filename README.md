@@ -19,7 +19,7 @@ The main task in this Challenge was to visualize and analyze the real-estate dat
 ## Calculate and plot the average prices per square foot:
 > use numerical and visual aggregation to calculate the average prices per square foot, and then visualize the results as a bar chart.
 
-![A screenshot depicts an example of the resulting plot.](./Images/M6C_Price-per-sf-and-gross-rents.jpg)
+![A screenshot depicts an example of the resulting plot.](https://github.com/sfkonrad/M6_Challenge_Submission/blob/main/Images/M6C_Price-per-sf-and-gross-rents%20.jpg)
 
 ## Compare the average prices by neighborhood:
 > use interactive visualizations and widgets to explore the average sale price per square foot by neighborhood.

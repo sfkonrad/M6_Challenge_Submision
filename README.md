@@ -1,5 +1,5 @@
-# **M6_Challenge_Submision**
-## **Housing Rental Analysis for San Francisco**
+## **M6_Challenge_Submision**
+# **Housing Rental Analysis for San Francisco**
 ###  For this project, our objective was to use data visualization techniques, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 
 

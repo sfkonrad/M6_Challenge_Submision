@@ -33,4 +33,4 @@ The main task in this Challenge was to visualize and analyze the real-estate dat
 >> - Developing insights to share with our company about the potential one-click, buy-and-rent strategy that they are pursuing. 
 >> - Whether any neighborhoods exist that would suggest opportunity for immediate investment and why.
 
-![A screenshot depicts an example of the resulting plot.](/Images/M6C_plot-Price-per-sf-and-gross-rents.jpg)
+![A screenshot depicts an example of the resulting plot.](https://github.com/sfkonrad/M6_Challenge_Submission/blob/main/Images/M6C_plot-Price-per-sf-and-gross-rents%20.jpg)

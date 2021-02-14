@@ -5,8 +5,6 @@
 
 **Proptech**, the application of technology to real-estate markets, is an innovative domain in the fintech industry. We've assumed the roles of analysts at a proptech company that intends to offer an instant, one-click service for people to buy properties and then rent them. The company is deploying a trial of this offering in the San Francisco real-estate market. If the service proves popular, the firm will proceed to expand to other markets.
 
-Our objective was to use data visualization techniques, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
-
 ![A screenshot depicts an example of the resulting plot.](https://github.com/sfkonrad/M6_Challenge_Submission/blob/main/Images/M6C_plot-Price-per-sf-and-gross-rents%20.jpg)
 
 ---

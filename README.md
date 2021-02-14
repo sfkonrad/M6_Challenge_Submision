@@ -27,7 +27,7 @@ The main task in this Challenge was to visualize and analyze the real-estate dat
 ## Data Story Composition.
 Based on the visualizations that we created, we considered the following:
 > - How the trend in rental income growth compares to the trend in sales prices and whether this same trend holds true for all the neighborhoods across San Francisco.
-> - Developing insights to share with our company about the potential one-click, buy-and-rent strategy that they are pursuing. 
+> - Developing insights to share with our company about the potential one-click, buy-and-rent strategy they are pursuing. 
 > - Whether any neighborhoods exist that would suggest opportunity for immediate investment and why.
 
 ![A screenshot depicts an example of the resulting plot.](https://github.com/sfkonrad/M6_Challenge_Submission/blob/main/Images/M6C_Price-per-sf-and-gross-rents%20.jpg)

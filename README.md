@@ -24,7 +24,7 @@ The main task in this Challenge was to visualize and analyze the real-estate dat
 ## Build an interactive neighborhood map.
 > Explore the geospatial relationships in the data by using interactive visualizations with Plotly and the Mapbox API. To build your map, use the DataFrame, which includes the neighborhood location data with the average prices.
 
-## Compose our data story.
+## Data Story Composition.
 Based on the visualizations that we created, we considered the following:
 > - How the trend in rental income growth compares to the trend in sales prices and whether this same trend holds true for all the neighborhoods across San Francisco.
 > - Developing insights to share with our company about the potential one-click, buy-and-rent strategy that they are pursuing. 
